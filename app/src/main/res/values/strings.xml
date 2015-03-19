@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Brisapp</string>
+
+    <string name="copy">Copiar</string>
+    <string name="share">Compartilhar</string>
+    <string name="update">Atualizar</string>
+    <string name="copied">Brisapp Copiado para Área de Transferência</string>
+    <string name="exception_erro_err_internet_disconnected">Não foi possível encontrar conexão com a internet. Tente novamente!</string>
+</resources>
